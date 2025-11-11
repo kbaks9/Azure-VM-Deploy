@@ -1,6 +1,5 @@
 # 🚀 Azure VM (Linux) Deployment
 
-## 🎯 Task
 Deploy a single virtual machine in **Azure** using **Terraform**. Ensure you can **SSH** into the VM. Once connected via SSH, create five directories named:  
 
 - 🌅 Fajr  
