@@ -1,6 +1,6 @@
 *.tfstate
 *.tfstate.backup
 *.tfplan
-.terraform.local.hcl
+.terraform.lock.hcl
 .terraform/
 .txt
