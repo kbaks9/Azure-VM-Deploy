@@ -1,10 +1,4 @@
-# Azure-VM-Deploy
-
-Terraform configuration to deploy a single Azure Linux virtual machine with SSH access. After deployment, create five directories inside the VM: Fajr, Duhr, Asr, Maghrib, and Isha.
-
----
-
-# 🚀 Terraform Azure VM Deployment
+# 🚀 Azure VM (Linux) Deployment
 
 ## 🎯 Task
 Deploy a single virtual machine in **Azure** using **Terraform**. Ensure you can **SSH** into the VM. Once connected via SSH, create five directories named:  
