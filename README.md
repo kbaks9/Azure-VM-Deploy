@@ -1,6 +1,6 @@
 # 🚀 Azure VM (Linux) Deployment
 
-Deploy a single virtual machine in **Azure** using **Terraform**. Ensure you can **SSH** into the VM. Once connected via SSH, create five directories named:  
+The task was to deploy a single virtual machine in **Azure** using **Terraform**. To be able to ensure you can **SSH** into the VM. Once connected via SSH, create five directories named:  
 
 - 🌅 Fajr  
 - ☀️ Duhr  
@@ -19,17 +19,6 @@ Deploy a single virtual machine in **Azure** using **Terraform**. Ensure you can
 - ✅ How to set up a **Virtual Network**, **Subnet**, **Public IP**, and **Network Interface**  
 - ✅ How to deploy a **Linux VM** and connect via SSH  
 - ✅ How to verify connectivity and perform tasks inside the VM (creating directories)
-
----
-
-**📝 Requirements:**  
-- Only one VM.  
-- Must be inside a resource group in Azure.  
-- No extra guidance is provided — figure out the implementation yourself.  
-
-**📦 Deliverables:**  
-- Terraform configuration files.  
-- Confirmation that the five directories exist inside the VM.  
 
 ---
 
